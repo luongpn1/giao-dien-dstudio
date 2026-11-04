@@ -28,6 +28,7 @@ Khách: xem. Chủ dự án: sửa nội dung qua PR.
 - **R3:** Nội dung/ảnh lấy từ doagency.vn; tải ảnh về `assets/` trong repo, không hotlink.
 - **R4:** Form "Gửi đi" không gửi đi đâu; chỉ kiểm tra ô bắt buộc trống và báo lỗi tiếng Việt.
 - **R5:** Ảnh tối ưu (webp), có alt; tải nhanh.
+- **R6:** Mọi nơi ghi tên thương hiệu "Do Agency" (tiêu đề, hero, footer, bản quyền, alt ảnh, tab trình duyệt) đổi thành **Dnews Media Studio**. Tên khách hàng/dự án (Ahamove, G4S, Mobifone…) giữ nguyên. Số điện thoại, địa chỉ, MST, link mạng xã hội: giữ mẫu tới khi có thông tin thật.
 
 ### 4. Ví dụ kiểm thử
 | # | Nhập | Kết quả đúng | Quy tắc |
@@ -38,11 +39,12 @@ Khách: xem. Chủ dự án: sửa nội dung qua PR.
 | 4 (đặc biệt) | Bấm "Gửi đi" khi form trống | Báo lỗi dễ hiểu, không gửi | R4 |
 | 5 (đặc biệt) | Ảnh bị lỗi/không tải | Hiện nền dự phòng, không vỡ bố cục | R5 |
 | 6 | Bấm mọi link/nút | Không sang trang lỗi 404 | R1 |
+| 7 | Tìm chữ "Do Agency" trong trang | Không còn; thay bằng "Dnews Media Studio" (trừ tên dự án khách) | R6 |
 
 ### 5. Không làm
 Trang con, logic, database, gửi form thật, đăng nhập, CMS, SEO nâng cao, đa ngôn ngữ.
 
 ### 6. Câu hỏi còn mở (cần bạn chốt)
-- Tên/logo/số điện thoại/địa chỉ: giữ của Do Agency làm mẫu hay thay bằng Dstudio / dnews247? (Mặc định: giữ mẫu, dễ thay sau.)
+- ĐÃ CHỐT: tên thương hiệu = Dnews Media Studio. CÒN MỞ: logo, số điện thoại, địa chỉ, MST, email, link mạng xã hội thật của Dnews (mặc định: giữ mẫu tới khi bạn gửi).
 - Màu và font: lấy theo doagency.vn? (Mặc định: có.)
 - Nơi host xem thử: GitHub Pages miễn phí? (Mặc định: có.)
