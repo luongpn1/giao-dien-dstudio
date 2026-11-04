@@ -7,3 +7,4 @@ Loại: Thêm · Sửa · Quyết định · Sự cố
 | | Thêm | Bản đầu tiên | |
 
 | 04/11/2026 | Quyết định | Phase 1 chỉ làm giao diện trang chủ, tham chiếu doagency.vn; chủ dự án đã duyệt spec | Lượng |
+| 04/11/2026 | Quyết định | Đổi toàn bộ thông tin thương hiệu trên trang thành Dnews Media Studio (R6) | Lượng |

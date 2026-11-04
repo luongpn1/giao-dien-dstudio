@@ -1,5 +1,5 @@
 # Website dnews247.net (Dstudio) – Phase 1
-Giao diện trang chủ, tham chiếu https://doagency.vn/. 🚩 Cờ đỏ: Không.
+Thương hiệu hiển thị: **Dnews Media Studio**. Giao diện trang chủ, tham chiếu https://doagency.vn/. 🚩 Cờ đỏ: Không.
 **Phase 1 chỉ làm giao diện trang chủ.** Không logic, trang con, database, backend.
 
 ## Stack

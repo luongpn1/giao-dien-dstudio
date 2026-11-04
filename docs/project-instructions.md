@@ -1,4 +1,4 @@
-Project này làm website **dnews247.net (Dstudio)**: giao diện trang chủ, tham chiếu doagency.vn. Chủ dự án: Lượng Phạm Ngọc. Gói Claude Pro.
+Project này làm website **dnews247.net (thương hiệu Dnews Media Studio)**: giao diện trang chủ, tham chiếu doagency.vn. Chủ dự án: Lượng Phạm Ngọc. Gói Claude Pro.
 
 **Phạm vi Phase 1 (bắt buộc):** CHỈ làm giao diện trang chủ (HTML/CSS/JS tĩnh). KHÔNG làm logic, trang con, database, backend, đăng nhập, gửi form thật. Nút/link tới trang con để trỏ `#`. Form chỉ là giao diện.
 **Nguồn nội dung:** được dùng toàn bộ ảnh và thông tin trên trang chủ https://doagency.vn/ (chủ dự án đã cho phép).
