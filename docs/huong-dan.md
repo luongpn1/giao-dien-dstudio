@@ -1,25 +1,5 @@
-# Hướng dẫn: [Tên tool]
-Người phụ trách: [tên] · Người thay khi vắng: [tên] · Link / nơi chạy: [..]
-
-## Cách dùng
-1. 
-2. 
-
-## Khởi động lại khi tool không chạy
-1. 
-
-## Cấu hình (.env) — chỉ ghi tên biến
-- 
-
-## Backup
-- Tự động: [sao lưu cái gì, lưu ở đâu, bao lâu một lần]
-- Cách khôi phục: 1. … 2. …
-- 🚩 Đã thử khôi phục: [ngày, kết quả]
-
-## Lỗi thường gặp
-| Hiện tượng | Cách xử lý |
-|---|---|
-| | |
-
-## Nếu tool hỏng hẳn
-[Tạm thời làm tay theo cách cũ: …]
+# Hướng dẫn xem trang chủ
+1. Tải repo về, mở file `index.html` bằng Chrome/Edge là thấy trang.
+2. Đổi logo: chép file logo vào `assets/logo-dnews.png` (nền trong suốt, cao khoảng 80px).
+3. Đổi chữ/số điện thoại: sửa trong `index.html`.
+Phase 1 chỉ là giao diện: form chưa gửi đi đâu, các link trỏ `#`.
